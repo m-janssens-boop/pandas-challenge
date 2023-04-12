@@ -10,6 +10,14 @@ When you look closer at each school individually, we see that the schools that h
 with much smaller student populations, roughly half that of the larger district schools. The schools that have the five lowest passing rates (between 52.9% and 53.5%) 
 are all district schools, with much larger student populations. Their student populations are roughly double that of the charter schools.
 
-
+When we look at school spending per captita, we see a correclation between a smaller budget per student and higher overall passing rates. 
+Initially, this seems counterintuitive. As a previous math teacher, I was slightly taken aback when I read the spending summary DataFram in line 29. 
+As I know well how beneficial resources are to classroom success for students.
+But, when we compare the size of the school with the overall passing rates, we see a much clearer correlation between school size and overall passing rates. 
+Similarly, we see a stark difference between charter schools and district schools in overall passing rates.
 
 Conclusions:
+This data suggests that small and medium schools correlate with higher passing rates in reading and math, which lead to higher overall passing rates for their students.
+Additionally, it also suggests that charter schools in this district have higher passing rates than district schools do. More research and a larger data pool 
+would be needed to determine if it is the charter school environment itself or the fact that the charter schools had much smaller student populations that contributed
+to their higher overall passing rates.
