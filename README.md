@@ -27,6 +27,7 @@ A high-level snapshot of the district's key metrics in a DataFrame, which includ
 ---------
 
 <img width="905" alt="Screenshot 2023-07-09 at 5 59 59 PM" src="https://github.com/m-janssens-boop/pandas-challenge/assets/127706155/eff39e07-c881-4792-a766-b16cae925ee2">
+
 ----------
 
 #### School Summary ####
